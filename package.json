@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/azulrossini/PruebaGraphQL#readme",
   "dependencies": {
+    "aws-serverless-express": "^3.3.8",
     "axios": "^0.20.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
